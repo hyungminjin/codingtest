@@ -14,3 +14,6 @@ print("화씨온도:",ftemp,"F")
 # 9 ctemp = (ftemp-32) * 5
 # 9ctemp/5 = ftemp - 32
 # 9 ctemp / 5 + 32 = ftemp
+
+
+# 완료
